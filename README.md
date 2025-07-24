@@ -22,16 +22,16 @@ Additionally, the project uses Azure AKS for Kubernetes deployments (provisioned
 ---
 
 ### 🛠️ CI/CD Pipeline Setup Screenshot
-![Setup](Images/setup.png)
+![Setup](Images/Setup.png)
 
 ### 💻 HTML Page View
-![HTML](Images/html-page.png)
+![HTML](Images/HTML.png)
 
 ### ⚙️ XML Config Example
-![XML](Images/xml-config.png)
+![XML](Images/XML.png)
 
 ### 🔢 Java Code Snippet
-![Java File](Images/java-snippet.png)
+![Java File](Images/java file.png)
 
 
 ## Section 1: CI/CD Pipeline Using Git, Jenkins, Maven, Docker, and Ansible
