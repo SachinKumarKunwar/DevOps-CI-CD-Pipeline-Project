@@ -31,7 +31,7 @@ Additionally, the project uses Azure AKS for Kubernetes deployments (provisioned
 ![XML](Images/XML.png)
 
 ### 🔢 Java Code Snippet
-![Java File](Images/java file.png)
+![Java File](Images/javafile.png)
 
 
 ## Section 1: CI/CD Pipeline Using Git, Jenkins, Maven, Docker, and Ansible
